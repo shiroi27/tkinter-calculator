@@ -52,6 +52,7 @@ Follow my journey here and on Instagram → @_shiroi_27_
 📢 Connect with Me
 	• 🐍 [Instagram: @_shiroi_27_](https://instagram.com/_shiroi_27_)
         • 💼 [GitHub: shiroi27](https://github.com/shiroi27)
+        • 🐦 [Twitter: @_shiroi_27_](https://twitter.com/_shiroi_27_)
   
 ⸻
 
