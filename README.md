@@ -43,8 +43,8 @@ python calculator.py
 
 👨‍💻 About Me
 
-I’m currently learning Python and building 100+ real projects to become a self-taught developer.
-Follow my journey here and on Instagram → @_shiroi_27_
+I’m currently learning Python and building 100+ real projects to become a self-taught developer
+🚀 Day 1 of My 100 days code 
 
 
 ⸻
