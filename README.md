@@ -23,7 +23,7 @@
 Make sure Python is installed. Then:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/tkinter-calculator.git
+git clone https://github.com/shiroi27/tkinter-calculator.git
 cd tkinter-calculator
 python calculator.py
 ```
